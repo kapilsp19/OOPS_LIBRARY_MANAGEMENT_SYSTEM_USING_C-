@@ -106,7 +106,7 @@ while(t.read((char*)&s,sizeof(lib)))
  
 s.show();
 }
-cout<<"name not found:";
+cout<<"name not file found:";
 }
 }
 }
